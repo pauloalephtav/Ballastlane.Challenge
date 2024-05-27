@@ -1,0 +1,6 @@
+@Ballastlane.Challenge.API_HostAddress = http://localhost:5001
+
+GET {{Ballastlane.Challenge.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
